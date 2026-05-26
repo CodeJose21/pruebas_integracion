@@ -1,5 +1,5 @@
 # Proyecto de Pruebas de Integración con Spring Boot
-
+[![Build](https://github.com/CodeJose21/pruebas_integracion/actions/workflows/build.yml/badge.svg)](https://github.com/CodeJose21/pruebas_integracion/actions/workflows/build.yml)
 Proyecto de ejemplo para la asignatura **Infraestructuras y Procesos de Soporte** (UMA).  
 Demuestra cómo estructurar y ejecutar pruebas unitarias y de integración en una API REST con Spring Boot.
 
