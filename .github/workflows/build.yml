@@ -1,4 +1,4 @@
-name: Single-Job
+name: single-job
 
 on: 
     push:

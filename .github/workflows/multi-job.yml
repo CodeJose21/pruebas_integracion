@@ -1,4 +1,4 @@
-name: Multi-Job
+name: multi-job
 
 on:
   push:
