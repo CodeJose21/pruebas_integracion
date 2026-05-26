@@ -1,6 +1,6 @@
 # Proyecto de Pruebas de Integración con Spring Boot
-![single-job](https://github.com/CodeJose21/CIDCalculator/actions/workflows/build.yml/badge.svg?branch=main)
-![multi-job](https://github.com/CodeJose21/CIDCalculator/actions/workflows/multi-job.yml/badge.svg?branch=main)
+![single-job](https://github.com/CodeJose21/pruebas_integracion/actions/workflows/build.yml/badge.svg?branch=main)
+![multi-job](https://github.com/CodeJose21/pruebas_integracion/actions/workflows/multi-job.yml/badge.svg?branch=main)
 Proyecto de ejemplo para la asignatura **Infraestructuras y Procesos de Soporte** (UMA).  
 Demuestra cómo estructurar y ejecutar pruebas unitarias y de integración en una API REST con Spring Boot.
 
